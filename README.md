@@ -1,8 +1,4 @@
-
-O que é Vagrant?
-Criar maquinas virtuais atraves de insfraestrutra como codigo.
-
-O Vagrant so é possivel instalar na maquina fisica.
+Segue passos e processos de automatização pelo Vagrant
 
 Vagrantfile
 - SO = Boxe
